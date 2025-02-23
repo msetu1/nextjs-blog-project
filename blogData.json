@@ -1,0 +1,137 @@
+{
+    "blogs": [
+      {
+        "id": 1,
+        "title": "The Future of Web Development",
+        "category": "Technology",
+        "author": "John Doe",
+        "date": "2025-02-23",
+        "image": "https://www.shutterstock.com/image-photo/internet-data-flow-blogging-concept-600nw-2227075035.jpg",
+        "content": "Web development is evolving rapidly with new technologies such as AI, WebAssembly, and serverless architectures. In this article, we explore what the future holds for developers and businesses alike.",
+        "tags": ["Web Development", "AI", "JavaScript"],
+        "comments": []
+      },
+      {
+        "id": 2,
+        "title": "Top 10 JavaScript Frameworks in 2025",
+        "category": "Programming",
+        "author": "Alice Johnson",
+        "date": "2025-02-20",
+        "image": "https://miro.medium.com/v2/resize:fit:785/1*y44ZgXtrSJOCLNJGIbHGFA.jpeg",
+        "content": "Explore the top JavaScript frameworks that are dominating the industry in 2025. From React to Svelte, find out which framework suits your next project.",
+        "tags": ["JavaScript", "React", "Vue"],
+        "comments": []
+      },
+      {
+        "id": 3,
+        "title": "Mastering React Hooks",
+        "category": "React",
+        "author": "Michael Smith",
+        "date": "2025-02-15",
+        "image": "https://media2.dev.to/dynamic/image/width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fi81wa6km7uvcuqo2gcmn.jpg",
+        "content": "React Hooks have revolutionized state management in React. Learn how to use useState, useEffect, and custom hooks effectively.",
+        "tags": ["React", "Hooks", "State Management"],
+        "comments": []
+      },
+      {
+        "id": 4,
+        "title": "Building Scalable Backend with Node.js",
+        "category": "Backend",
+        "author": "Robert Brown",
+        "date": "2025-02-10",
+        "image": "https://bs-uploads.toptal.io/blackfish-uploads/components/blog_post_page/8177834/cover_image/optimized/Leverage%20LLMs%20for%20Coding-Blog-0cdfd3ae36e086935574c2ab341387ce.png",
+        "content": "Learn how to build a high-performance backend using Node.js, Express, and MongoDB to handle millions of requests efficiently.",
+        "tags": ["Node.js", "Backend", "API"],
+        "comments": []
+      },
+      {
+        "id": 5,
+        "title": "AI in Web Design: Is Automation the Future?",
+        "category": "Technology",
+        "author": "Sophia Davis",
+        "date": "2025-02-05",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQc5-7rn9PtdosqcLMm8Op6bW9zxQM0Y1lovg&s",
+        "content": "AI is transforming web design with automation, smart UI suggestions, and real-time optimizations. Is AI the future of web design?",
+        "tags": ["AI", "Web Design", "Automation"],
+        "comments": []
+      },
+      {
+        "id": 6,
+        "title": "Best Practices for REST API Development",
+        "category": "API",
+        "author": "David Wilson",
+        "date": "2025-02-02",
+        "image": "https://iotvnaw69daj.i.optimole.com/cb:Amyz.6583c/w:auto/h:auto/q:75/f:best/https://www.bloggingpro.com/wp-content/uploads/2023/10/Best-Tech-Blogs-featured-image.webp",
+        "content": "Discover the best practices for designing secure and efficient REST APIs, including versioning, authentication, and documentation.",
+        "tags": ["API", "REST", "Best Practices"],
+        "comments": []
+      },
+      {
+        "id": 7,
+        "title": "How to Optimize Your Website for SEO in 2025",
+        "category": "SEO",
+        "author": "Emma White",
+        "date": "2025-01-28",
+        "image": "https://www.shutterstock.com/image-photo/content-marketing-concept-person-using-260nw-1679504617.jpg",
+        "content": "SEO is evolving with Google's new algorithm updates. Learn the latest strategies to rank higher in search results in 2025.",
+        "tags": ["SEO", "Google", "Optimization"],
+        "comments": []
+      },
+      {
+        "id": 8,
+        "title": "Cybersecurity Trends Every Developer Should Know",
+        "category": "Cybersecurity",
+        "author": "James Taylor",
+        "date": "2025-01-25",
+        "image": "https://st3.depositphotos.com/1144687/35226/i/450/depositphotos_352265996-stock-photo-computer-on-desktop-in-office.jpg",
+        "content": "With the rise of cyber threats, developers must stay updated with the latest security trends to protect applications and user data.",
+        "tags": ["Cybersecurity", "Security", "Ethical Hacking"],
+        "comments": []
+      },
+      {
+        "id": 9,
+        "title": "The Rise of No-Code and Low-Code Platforms",
+        "category": "Development",
+        "author": "Olivia Martinez",
+        "date": "2025-01-20",
+        "image": "https://img.freepik.com/free-photo/close-up-person-working-home-night_23-2149090964.jpg",
+        "content": "No-code and low-code platforms are democratizing development. Find out how these tools are empowering non-developers to build applications.",
+        "tags": ["No-Code", "Low-Code", "Automation"],
+        "comments": []
+      },
+      {
+        "id": 10,
+        "title": "Cloud Computing: AWS vs. Azure vs. Google Cloud",
+        "category": "Cloud Computing",
+        "author": "William Moore",
+        "date": "2025-01-18",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSMiDHCMtcYILjt0XTJutOjejkI97JSOVcvFg&s",
+        "content": "A detailed comparison of the top cloud platforms: AWS, Azure, and Google Cloud. Find out which one suits your business needs best.",
+        "tags": ["Cloud", "AWS", "Azure", "Google Cloud"],
+        "comments": []
+      },
+      {
+        "id": 11,
+        "title": "Freelancing in Tech: Pros and Cons",
+        "category": "Career",
+        "author": "Charlotte Anderson",
+        "date": "2025-01-15",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRwmQgwEBZrf1j4QhK6GBcUAN8KAR8kUed6Fg&s",
+        "content": "Freelancing is becoming more popular in the tech industry. Here’s what you need to know before starting your freelance journey.",
+        "tags": ["Freelancing", "Remote Work", "Tech Career"],
+        "comments": []
+      },
+      {
+        "id": 12,
+        "title": "The Importance of UI/UX in Modern Websites",
+        "category": "Design",
+        "author": "Daniel Lee",
+        "date": "2025-01-10",
+        "image": "https://media.licdn.com/dms/image/v2/D4E12AQGPinVNyGjXew/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1706376983792?e=2147483647&v=beta&t=8ypJBVAZKFlq6pQB-jzYZmj9IqDwEa1Qhk8UTtcAIyc",
+        "content": "User experience and interface design are crucial for website success. Learn best practices to improve usability and engagement.",
+        "tags": ["UI/UX", "Design", "User Experience"],
+        "comments": []
+      }
+    ]
+  }
+  

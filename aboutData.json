@@ -1,0 +1,38 @@
+{
+    "team": [
+      {
+        "id": 1,
+        "name": "Alice Johnson",
+        "role": "Founder & CEO",
+        "bio": "Alice is a visionary leader with over 10 years of experience in the tech industry, driving innovation and business growth.",
+        "image": "https://getwpteam.com/wp-content/uploads/2022/02/19.png",
+        "socials": {
+          "linkedin": "https://linkedin.com/in/alicejohnson",
+          "twitter": "https://twitter.com/alicejohnson"
+        }
+      },
+      {
+        "id": 2,
+        "name": "Mark Smith",
+        "role": "Lead Developer",
+        "bio": "Mark specializes in full-stack development, ensuring seamless user experiences and cutting-edge technology implementations.",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_ewgocwoS7K5hmvG2G5Lwx5y18Dsjo1K9j9X6c4lCdE3AGy3FGd6D-oxg2ztellzEgR8&usqp=CAU",
+        "socials": {
+          "github": "https://github.com/marksmith",
+          "linkedin": "https://linkedin.com/in/marksmith"
+        }
+      },
+      {
+        "id": 3,
+        "name": "Sophia Lee",
+        "role": "UI/UX Designer",
+        "bio": "Sophia creates stunning and intuitive designs, making sure our products are both aesthetically pleasing and user-friendly.",
+        "image": "https://www.columbuspm.org/wp-content/uploads/2015/09/team-member-sample.jpg",
+        "socials": {
+          "dribbble": "https://dribbble.com/sophialee",
+          "linkedin": "https://linkedin.com/in/sophialee"
+        }
+      }
+    ]
+  }
+  
